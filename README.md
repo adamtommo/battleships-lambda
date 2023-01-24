@@ -1,4 +1,4 @@
-# battleships-lambda
+# Battleships Lambda
 
 Welcome to Battleships!
 
